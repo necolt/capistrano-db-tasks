@@ -9,7 +9,7 @@ Currently
 * It only supports mysql and postgresql (both side remote and local)
 * Synchronize assets remote to local and local to remote
 
-Commands mysql, mysqldump (or pg_dump, psql), bzip2 and unbzip2 must be in your PATH
+Commands mysql, mysqldump (or pg_dump, psql), gzip must be in your PATH
 
 Feel free to fork and to add more database support or new tasks.
 
